@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://deepanshi-tyagi.vercel.app/">Portfolio</a> •
-<a href="Yhttps://www.linkedin.com/in/deepanshi-tyagi-aa7017321">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/deepanshi-tyagi-aa7017321">LinkedIn</a> •
 <a href="https://github.com/deepanshi-tyagi">GitHub</a> •
 <a href="mailto:deepanshityagi236@gmail.com">Email</a>
 </p>
