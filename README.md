@@ -2,7 +2,11 @@
 
 # Hi, I'm Deepanshi Tyagi
 
-### Aspiring Data Scientist 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Machine+Learning+%26+AI+Enthusiast;Open+to+Internship+Opportunities" />
+</p>
+
+Data Science • Machine Learning • Artificial Intelligence
 
 <p>
 <a href="https://deepanshi-tyagi.vercel.app/">Portfolio</a> •
@@ -12,7 +16,6 @@
 </p>
 
 </div>
----
 
 I'm a Computer Science Engineering student with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy transforming data into meaningful insights and building practical solutions that solve real-world problems.
 
