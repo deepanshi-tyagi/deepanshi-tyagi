@@ -19,7 +19,7 @@ I'm a Computer Science Engineering student with a strong interest in **Data Scie
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,react,mysql,html,css,javascript,talwind,git" />
+<img src="https://skillicons.dev/icons?i=python,cpp,react,mysql,html,css,javascript,tailwind,git" />
 </p>
 
 **Data Science & Analytics**
