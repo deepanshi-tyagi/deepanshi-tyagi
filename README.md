@@ -12,17 +12,14 @@
 </p>
 
 </div>
-
 ---
-
-## About Me
 
 I'm a Computer Science Engineering student with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy transforming data into meaningful insights and building practical solutions that solve real-world problems.
 
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,reactjs,mysql,html,css,javascript,talwindcss,git,github,vscode" />
 </p>
 
 **Data Science & Analytics**
