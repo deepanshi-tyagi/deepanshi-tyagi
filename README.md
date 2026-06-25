@@ -1,27 +1,32 @@
 <div align="center">
 
-# 👋 Hi, I'm Deepanshi Tyagi
+# Hi, I'm Deepanshi Tyagi
 
-### 📊 Aspiring Data Scientist | AI & ML 
+### Aspiring Data Scientist 
 
-## Connect
-
-[Portfolio](https://deepanshi-tyagi.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/deepanshi-tyagi-aa7017321) •
-[GitHub](https://github.com/deepanshi-tyagi) •
-[Email](mailto:deepanshityagi236@gmail.com)
-
+<p>
+<a href="https://deepanshi-tyagi.vercel.app/">Portfolio</a> •
+<a href="Yhttps://www.linkedin.com/in/deepanshi-tyagi-aa7017321">LinkedIn</a> •
+<a href="https://github.com/deepanshi-tyagi">GitHub</a> •
+<a href="mailto:deepanshityagi236@gmail.com">Email</a>
+</p>
 
 </div>
 
-## Hi, I'm Deepanshi Tyagi
+---
 
-I'm a Computer Science Engineering student with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy analyzing data, building intelligent applications, and solving real-world problems through technology.
+## About Me
+
+I'm a Computer Science Engineering student with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy transforming data into meaningful insights and building practical solutions that solve real-world problems.
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,reactjs,mysql,git,github,vscode," />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,javascript,git,github,vscode" />
 </p>
 
-**Data Science:** Pandas • NumPy • Scikit-learn • Matplotlib • Power BI • Jupyter Notebook
+**Data Science & Analytics**
+
+Pandas • NumPy • Scikit-learn • Matplotlib • Power BI 
+
+---
